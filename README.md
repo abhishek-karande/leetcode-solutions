@@ -1,6 +1,6 @@
 # LeetCode Solutions 🚀
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-brightgreen)  
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-brightgreen)  
 ![Language](https://img.shields.io/badge/Language-Java-blue)  
 ![Last Commit](https://img.shields.io/github/last-commit/abhishek-karande/leetcode-solutions)  
 ![Repo Size](https://img.shields.io/github/repo-size/abhishek-karande/leetcode-solutions)
@@ -38,10 +38,10 @@ Filenames follow the problem name (snake_case / camelCase) for readability.
 
 ## ✅ Progress
 
-- **Total Problems Solved:**
-- **Easy:**
-- **Medium:**
-- **Hard:**
+- **Total Problems Solved:1**
+- **Easy:1**
+- **Medium:0**
+- **Hard:1**
 
 *(I generally update these numbers as I go.)*
 
@@ -74,7 +74,7 @@ Filenames follow the problem name (snake_case / camelCase) for readability.
 ## 📖 References
 
 - [LeetCode Discuss](https://leetcode.com/discuss/)
-- [NeetCode Roadmap](https://neetcode.io/)
+- [NeetCode Roadmap](https://neetcode.io/roadmap)
 - [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
 
 ---
