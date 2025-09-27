@@ -54,13 +54,13 @@ Filenames follow the problem name (snake_case / camelCase) for readability.
    git clone https://github.com/abhishek-karande/leetcode-solutions.git
    cd leetcode-solutions
    ```
-2. Navigate to the problem folder.
+2. Navigate to the src/main/java folder.
 3. Run the solution (example in Java):
    ```bash
-   javac TwoSum.java
-   java TwoSum
+   javac <packageName>/className.java
+   java <packageName>.<className>.java
    ```
-
+Or use Intellij Idea 🙂
 ---
 
 ## 🎯 Goals
