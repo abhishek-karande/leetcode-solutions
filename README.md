@@ -1,9 +1,6 @@
 # LeetCode Solutions 🚀
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-blue)  
-![Easy](https://img.shields.io/badge/Easy-1-brightgreen)  
-![Medium](https://img.shields.io/badge/Medium-1-yellow)  
-![Hard](https://img.shields.io/badge/Hard-0-red)  
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-blue)![Easy](https://img.shields.io/badge/Easy-1-brightgreen)![Medium](https://img.shields.io/badge/Medium-1-yellow)![Hard](https://img.shields.io/badge/Hard-0-red)  
 ![Language](https://img.shields.io/badge/Language-Java-blue)  
 ![Last Commit](https://img.shields.io/github/last-commit/abhishek-karande/leetcode-solutions)  
 ![Repo Size](https://img.shields.io/github/repo-size/abhishek-karande/leetcode-solutions)
