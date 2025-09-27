@@ -1,5 +1,6 @@
 package twoPointers;
 
+//link: https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75
 public class IsSubsequence {
     public boolean isSubsequence(String s, String t) {
         char[] smallStrArr = s.toCharArray();
