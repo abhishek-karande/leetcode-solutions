@@ -1,5 +1,5 @@
 package slidingWindow;
-
+// https://leetcode.com/problems/maximum-average-subarray-i/submissions/1786682521/?envType=study-plan-v2&envId=leetcode-75
 public class MaximumAverageSubArray {
 
     public double findMaxAverage(int[] nums, int k) {
